@@ -29,7 +29,7 @@ Variables included:
 
 -----------
 File:
-- `cw2_diet_impact_chart.py` – This is the Python script I wrote to generate the chart.
+- cw2_diet_impact_chart.py– This is the Python script I wrote to generate the chart.
 
 I grouped the data by diet group, calculated the average for each variable, normalized them, and plotted them all on one chart to compare the results.
 
